@@ -1,0 +1,34 @@
+{
+  "name": "push-huawei",
+  "version": "0.0.1",
+  "description": "push-huawei",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "0.18.0",
+    "moment": "2.24.0",
+    "querystring": "0.2.0"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": { 
+    "type" : "git", 
+    "url" : "https://github.com/nobitajs/nobita.git"
+  },
+  "keywords": [
+    "koa",
+    "huawei",
+    "push-huawei",
+    "push"
+  ],
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/nobitajs/nobita/issues",
+    "email": "303907720@qq.com"
+  },
+  "author": "JJ",
+  "license": "MIT"
+}
