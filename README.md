@@ -21,7 +21,7 @@ const huawei = new Huawei({
 huawei.push({
   title: '标题',
   content: '内容',
-  list: ['pushId'],
+  list: ['pushId'], 
   extras: {
     // ... 额外信息
   },
@@ -29,6 +29,9 @@ huawei.push({
   error(err){} // 失败回调
 });
 ```
+
+> 因为华为api最多支持100台机器推送，如果 list 长度超过100，则内部会发起 Math.ceil(n / 100) 条请求。
+
 ## 参数
 
 | key | value |
