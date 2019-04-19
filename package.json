@@ -1,6 +1,6 @@
 {
   "name": "push-huawei",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "push-huawei",
   "main": "index.js",
   "dependencies": {},

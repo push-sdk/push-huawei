@@ -13,8 +13,8 @@ npm install push-huawei --save-dev
 ```javascript
 const Huawei = require('push-huawei');
 const huawei = new Huawei({
-  client_id: 'appId',
-  client_secret: 'appSecret',
+  appId: 'appId',
+  appSecret: 'appSecret',
   appPkgName: '应用包名'
 });
 
@@ -36,8 +36,8 @@ huawei.push({
 
 | key | value |
 |:----|:----|
-|client_id|appID|
-|$client_secret|appSecret|
+|appId|appID|
+|$appSecret|appSecret|
 |appPkgName|应用包名|
 |getTokenUrl|获取token URL 默认 https://login.cloud.huawei.com/oauth2/v2/token|
 |pushUrl|推送URL 默认 https://api.push.hicloud.com/pushsend.do|
