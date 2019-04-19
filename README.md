@@ -4,6 +4,11 @@
 
 根据华为提供的推送服务实现的 Node 版SDK。支持华为通知栏推送功能，欢迎大家使用。
 
+[小米推送](https://www.npmjs.com/package/push-xiaomi)
+
+[魅族推送](https://www.npmjs.com/package/push-meizu)
+
+
 ## 安装
 ```
 npm install push-huawei --save-dev
