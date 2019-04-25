@@ -1,13 +1,15 @@
 {
   "name": "push-huawei",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "push-huawei",
   "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "axios": "0.18.0",
     "moment": "2.24.0",
     "querystring": "0.2.0"
+  },
+  "devDependencies": {
+    
   },
   "files": [
     "lib"
