@@ -59,4 +59,4 @@ huawei.push({
 |maxLength|华为推送限制长度 默认100|
 
 
-[华为官方文档](https://developer.huawei.com/consumer/cn/service/hms/catalog/huaweipush_agent.html?page=hmssdk_huaweipush_api_reference_agent_s1)
+[华为官方文档](https://developer.huawei.com/consumer/cn/doc/development/HMS-2-References/hmssdk_huaweipush_api_reference_agent_s2)
