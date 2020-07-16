@@ -4,7 +4,7 @@
   "description": "push-huawei",
   "main": "index.js",
   "dependencies": {
-    "lodash": "4.17.11",
+    "lodash": "4.17.19",
     "axios": "0.19.2",
     "moment": "2.24.0",
     "querystring": "0.2.0"
